@@ -1,2 +1,2 @@
 console.log('Hallåe');
-console.log('från en nyyy branch');
+console.log('hejhej från en nyyy branch');
